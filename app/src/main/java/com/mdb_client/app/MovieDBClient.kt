@@ -1,4 +1,6 @@
 package com.mdb_client.app
 
-class MovieDBClient {
+import android.app.Application
+
+class MovieDBClient: Application() {
 }
