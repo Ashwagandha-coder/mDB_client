@@ -1,7 +1,8 @@
-package com.mdb_client
+package com.mdb_client.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mdb_client.R
 import com.mdb_client.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
